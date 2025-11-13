@@ -1,4 +1,4 @@
-Here are some intial theme repositiories that I've found interesting
+Some intial theme repositiories
 
 https://draculatheme.com/
 
